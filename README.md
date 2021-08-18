@@ -19,3 +19,5 @@
 
 <h3>Colaboradores</h3>
 <p>Kelvin de Sá Ferreira</p>
+<p>Jessica Latorre</p>
+<p>Rachel de Araujo</p>
